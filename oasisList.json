@@ -1,0 +1,100 @@
+{
+  "tokens": [
+    {
+      "name": "ROSE",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ROSE",
+      "decimals": 18,
+      "chainId": 42262,
+      "logoURI": "https://cryptologos.cc/logos/oasis-network-rose-logo.svg?v=025"
+    },
+    {
+      "name": "Wrapped ROSE",
+      "address": "0x21C718C22D52d0F3a789b752D4c2fD5908a8A733",
+      "symbol": "wROSE",
+      "decimals": 18,
+      "chainId": 42262,
+      "logoURI": "https://cryptologos.cc/logos/oasis-network-rose-logo.svg?v=025"
+    },
+    {
+      "name": "ETH",
+      "address": "0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F",
+      "symbol": "wETH",
+      "decimals": 18,
+      "chainId": 42262,
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png"
+    },
+    {
+      "name": "USDT",
+      "address": "0xdC19A122e268128B5eE20366299fc7b5b199C8e3",
+      "symbol": "weUSDT",
+      "decimals": 6,
+      "chainId": 42262,
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png"
+    },
+    {
+      "name": "PAPER",
+      "symbol": "PAPER",
+      "address": "0x1affBc17938a25d245e1B7eC6f2fc949df8E9760",
+      "chainId": 42262,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "INK",
+      "symbol": "INK",
+      "address": "0x32975907733f93305be28e2bfd123666b7a9c863",
+      "chainId": 42262,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "USDC",
+      "address": "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
+      "symbol": "ceUSDC",
+      "decimals": 6,
+      "chainId": 42262,
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png"
+    },
+    {
+      "name": "UST",
+      "address": "0xa1E73c01E0cF7930F5e91CB291031739FE5Ad6C2",
+      "symbol": "UST",
+      "decimals": 6,
+      "chainId": 42262,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x23396cF899Ca06c4472205fC903bDB4de249D6fC.png"
+    },
+    {
+      "name": "LUNA",
+      "address": "0x4F43717B20ae319Aa50BC5B2349B93af5f7Ac823",
+      "symbol": "LUNA",
+      "decimals": 6,
+      "chainId": 42262,
+      "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/LUNA.png"
+    },
+    {
+      "name": "Celer Network",
+      "address": "0xf6a939e773fa4A63fd53f86bbbB279CaAD955035",
+      "symbol": "CELR",
+      "decimals": 18,
+      "chainId": 42262,
+      "logoURI": ""
+    },
+    {
+      "name": "FTP",
+      "address": "0xd1dF9CE4b6159441D18BD6887dbd7320a8D52a05",
+      "symbol": "FTP",
+      "decimals": 18,
+      "chainId": 42262,
+      "logoURI": ""
+    },
+    {
+      "name": "BTC",
+      "address": "0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818",
+      "symbol": "meBTC",
+      "decimals": 8,
+      "chainId": 42262,
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x50b7545627a5162F82A992c33b87aDc75187B218/logo.png"
+    }
+  ]
+}
