@@ -15,7 +15,7 @@
       "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
       "chainId": 25,
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://cryptologos.cc/logos/cronos-cro-logo.svg?v=025",
       "tags": ["mainnet"]
     },
     {
@@ -44,22 +44,6 @@
       "decimals": 8,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png",
       "tags": ["mainnet"]
-    },
-    {
-      "name": "PAPER",
-      "symbol": "PAPER",
-      "address": "0x1affBc17938a25d245e1B7eC6f2fc949df8E9760",
-      "chainId": 25,
-      "decimals": 18,
-      "logoURI": ""
-    },
-    {
-      "name": "INK",
-      "symbol": "INK",
-      "address": "0x32975907733f93305BE28E2bfd123666b7A9c863",
-      "chainId": 25,
-      "decimals": 18,
-      "logoURI": ""
     }
   ]
 }

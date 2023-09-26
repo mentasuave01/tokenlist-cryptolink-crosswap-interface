@@ -22,28 +22,7 @@
       "nativeChain": 1,
       "permit": 1
     },
-    {
-      "name": "PAPER",
-      "symbol": "PAPER",
-      "address": "0xea97c7c1c89d4084e0BFB88284FA90243779da9f",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "",
-      "bridgeId": "ftm",
-      "nativeChain": 1,
-      "permit": 1
-    },
-    {
-      "name": "INK",
-      "symbol": "INK",
-      "address": "0xFFAbb85ADb5c25D57343547a8b32B62f03814B12",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "",
-      "bridgeId": "ftm",
-      "nativeChain": 1,
-      "permit": 1
-    },
+
     {
       "name": "Aave",
       "symbol": "multiAAVE",

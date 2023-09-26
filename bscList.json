@@ -40,22 +40,6 @@
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47.png"
     },
-    {
-      "name": "PAPER",
-      "symbol": "PAPER",
-      "address": "0xE239b561369aeF79eD55DFdDed84848A3bF60480",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": ""
-    },
-    {
-      "name": "INK",
-      "symbol": "INK",
-      "address": "0xc08Aa06C1D707BF910ADA0BdEEF1353F379E64e1",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": ""
-    },
 
     {
       "name": "AdEx Network",

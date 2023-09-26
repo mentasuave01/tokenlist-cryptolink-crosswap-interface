@@ -16,22 +16,7 @@
       "chainId": 42220,
       "decimals": 18
     },
-    {
-      "name": "PAPER",
-      "symbol": "PAPER",
-      "address": "0x1affBc17938a25d245e1B7eC6f2fc949df8E9760",
-      "chainId": 42220,
-      "decimals": 18,
-      "logoURI": ""
-    },
-    {
-      "name": "INK",
-      "symbol": "INK",
-      "address": "0x32975907733f93305BE28E2bfd123666b7A9c863",
-      "chainId": 42220,
-      "decimals": 18,
-      "logoURI": ""
-    },
+
     {
       "address": "0x0a60c25Ef6021fC3B479914E6bcA7C03c18A97f1",
       "name": "Stabilite USD",

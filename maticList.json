@@ -120,22 +120,7 @@
       "chainId": 137,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
-    {
-      "name": "PAPER",
-      "symbol": "PAPER",
-      "address": "0x11a1779ae6b02bb8E7ff847919bcA3e55BcbB3D5",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": ""
-    },
-    {
-      "name": "INK",
-      "symbol": "INK",
-      "address": "0x0731D0C0D123382C163AAe78A09390cAd2FFC941",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": ""
-    },
+
     {
       "name": "HEXX",
       "address": "0x23D29D30e35C5e8D321e1dc9A8a61BFD846D4C5C",

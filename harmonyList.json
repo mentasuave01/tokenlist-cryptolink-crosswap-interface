@@ -48,22 +48,7 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/1USDT.png"
     },
-    {
-      "name": "PAPER",
-      "symbol": "PAPER",
-      "address": "0x1affBc17938a25d245e1B7eC6f2fc949df8E9760",
-      "chainId": 1666600000,
-      "decimals": 18,
-      "logoURI": ""
-    },
-    {
-      "name": "INK",
-      "symbol": "INK",
-      "address": "0x32975907733f93305be28e2bfd123666b7a9c863",
-      "chainId": 1666600000,
-      "decimals": 18,
-      "logoURI": ""
-    },
+
     {
       "chainId": 1666600000,
       "address": "0x9A89d0e1b051640C6704Dde4dF881f73ADFEf39a",

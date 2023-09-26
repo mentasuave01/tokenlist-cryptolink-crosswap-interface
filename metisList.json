@@ -40,22 +40,7 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/MaiaDAO/token-list/main/0xbB06DCA3AE6887fAbF931640f67cab3e3a16F4dC.svg"
     },
-    {
-      "name": "PAPER",
-      "symbol": "PAPER",
-      "address": "0x1affBc17938a25d245e1B7eC6f2fc949df8E9760",
-      "chainId": 1088,
-      "decimals": 18,
-      "logoURI": ""
-    },
-    {
-      "name": "INK",
-      "symbol": "INK",
-      "address": "0x32975907733f93305BE28E2bfd123666b7A9c863",
-      "chainId": 1088,
-      "decimals": 18,
-      "logoURI": ""
-    },
+
     {
       "address": "0x4c078361FC9BbB78DF910800A991C7c3DD2F6ce0",
       "chainId": 1088,

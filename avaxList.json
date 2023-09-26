@@ -38,24 +38,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x1affBc17938a25d245e1B7eC6f2fc949df8E9760",
-      "decimals": 18,
-      "name": "PAPER",
-      "symbol": "PAPER",
-      "tags": ["DeFi"],
-      "logoURI": ""
-    },
-    {
-      "chainId": 43114,
-      "address": "0x32975907733f93305be28e2bfd123666b7a9c863",
-      "decimals": 18,
-      "name": "INK",
-      "symbol": "INK",
-      "tags": ["DeFi"],
-      "logoURI": ""
-    },
-    {
-      "chainId": 43114,
       "address": "0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a",
       "decimals": 18,
       "name": "VersoToken",
